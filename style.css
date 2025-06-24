@@ -37,7 +37,7 @@
 }
 .box3{
     flex-wrap: wrap; 
-    gap: 7px;
+    gap: 6px;
 }
 .box4{
     justify-content: space-between ;
